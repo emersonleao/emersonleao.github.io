@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/home/log1/Pictures/DALL·E 2023-01-08 13.52.13 - cyberpunk anubis illustration in the desert.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
